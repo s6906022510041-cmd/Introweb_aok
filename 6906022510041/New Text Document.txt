@@ -1,0 +1,6 @@
+@echo off
+mkdir TestFolder3
+echo some text 3 > TestFolder3\testFile3.txt
+paue
+dir TestFolder
+pause
